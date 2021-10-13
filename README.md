@@ -1,5 +1,5 @@
 # Singabana
-![logo](github-pictures/logo.png)
+![logo](github-pictures/logo2.png)
 V7 Mindustry mod that add modded maps for you to beat with all the vanilla contents provides.
 
 Pure hjson
