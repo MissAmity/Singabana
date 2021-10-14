@@ -1,0 +1,14 @@
+type: ItemTurret
+size: 3
+category: turrets
+requirements: [
+  silicon/250
+  surge-alloy/100
+  copper/750
+  thorium/350
+]
+ammoTypes: {
+  thorium: {
+    type: BasicBulletType
+  }
+}
