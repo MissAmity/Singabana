@@ -1,5 +1,5 @@
 type: ItemTurret
-size: 3
+size: 2
 category: turret
 requirements: [
   silicon/250
