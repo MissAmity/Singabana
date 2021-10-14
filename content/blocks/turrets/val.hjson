@@ -1,6 +1,6 @@
 type: ItemTurret
 size: 3
-category: turrets
+category: turret
 requirements: [
   silicon/250
   surge-alloy/100
