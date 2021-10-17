@@ -1,4 +1,5 @@
 type: ItemTurret
+buildVisibility: sandboxOnly
 size: 2
 category: turret
 requirements: [
