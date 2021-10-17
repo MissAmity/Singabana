@@ -1,0 +1,12 @@
+type: Wall
+size: 1
+name: Test Wall
+description: A testing wall
+health: 100
+absorbLasers: true
+category: defense
+buildVisibility: shown
+research: copper-wall-large
+requirements: [
+  copper/1
+]
